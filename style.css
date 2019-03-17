@@ -1,4 +1,12 @@
 p {
     background-color: coral;
     text-align: center;
+    font-size: 30px;
+}
+
+div {
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+    text-align: center;
 }
